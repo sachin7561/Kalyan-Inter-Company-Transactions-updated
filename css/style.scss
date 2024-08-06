@@ -614,11 +614,15 @@ img.imgjuelogo {
   background: #FFF;
   border: 1px solid $border-color;
 }
-
+.x-section{
+  margin-top: -0.14rem;
+}
 .x-icon {
   width: 37.956px;
   height: 52px;
   border-radius: 0 4px 4px 0;
+  padding: 12px;
+
 }
 
 .card-box {
