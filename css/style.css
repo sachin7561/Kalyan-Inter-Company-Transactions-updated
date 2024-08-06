@@ -309,6 +309,13 @@ li {
 
 .duedatedatelayer2 {
   margin-top: -1rem;
+  margin-left: -35px;
+  color: #092353;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
 }
 
 .bal-bal-layer2gap {
@@ -349,7 +356,7 @@ li {
 }
 
 .layer2duedate {
-  margin-left: -40px;
+  margin-left: -55px;
 }
 
 .gap-date-cus {
@@ -562,7 +569,7 @@ thead,
   font-family: "Font Awesome 6 Pro";
   font-size: 14px;
   margin-left: -60px;
-  margin-top: -2rem;
+  margin-top: -2.5rem;
 }
 
 .img-box {
